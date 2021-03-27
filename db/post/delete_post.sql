@@ -1,2 +1,2 @@
-DELETE from post_id
-WHERE id = 1;
+DELETE from helo_posts
+WHERE id = $1;
